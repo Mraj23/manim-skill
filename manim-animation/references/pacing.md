@@ -462,3 +462,11 @@ When in doubt: **go slower**. You can always speed up a clip in your video edito
 ---
 
 *Rule of thumb from watching hundreds of 3b1b videos: the average wait between meaningful visual events is about 1.8 seconds. If your scene averages under 1 second, it's almost certainly too fast.*
+
+---
+
+## Official Documentation
+
+- [Scene reference](https://docs.manim.community/en/stable/reference/manim.scene.scene.Scene.html) — self.wait(), self.pause(), next_section(), all scene methods
+- [Output settings](https://docs.manim.community/en/stable/tutorials/output_and_config.html) — --save_sections for chapter-based rendering
+- [3b1b FAQ on animations](https://www.3blue1brown.com/faq) — Grant's own philosophy on when to use Manim and when not to

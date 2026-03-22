@@ -366,3 +366,15 @@ Screen edges:
   left_edge = -config.frame_width / 2   # ≈ -7.1
   top_edge  =  config.frame_height / 2  # = 4.0
 ```
+
+---
+
+## Official Documentation
+
+- [MovingCameraScene](https://docs.manim.community/en/stable/reference/manim.scene.moving_camera_scene.MovingCameraScene.html) — pan, zoom, frame follow
+- [ThreeDScene](https://docs.manim.community/en/stable/reference/manim.scene.three_d_scene.ThreeDScene.html) — 3D camera orientation, ambient rotation
+- [ZoomedScene](https://docs.manim.community/en/stable/reference/manim.scene.zoomed_scene.ZoomedScene.html) — picture-in-picture zoom
+- [Deep dive into Manim internals](https://docs.manim.community/en/stable/guides/deep_dive.html) — how the render loop, Mobjects, and VMobjects actually work
+- [Output settings and config](https://docs.manim.community/en/stable/tutorials/output_and_config.html) — quality flags, sections, config fields
+- [3b1b/videos](https://github.com/3b1b/videos) — Grant Sanderson's actual scene code for every 3Blue1Brown video
+- [How I animate 3Blue1Brown](https://www.3blue1brown.com/lessons/manim-demo) — Grant's October 2024 workflow demo

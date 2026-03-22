@@ -309,3 +309,13 @@ number = DecimalNumber(0).scale(3)
 self.add(number)
 self.play(CountUp(number, 0, 100), run_time=3, rate_func=smooth)
 ```
+
+---
+
+## Official Documentation
+
+- [Animation reference](https://docs.manim.community/en/stable/reference/manim.animation.html) — every animation class
+- [Rate functions reference](https://docs.manim.community/en/stable/reference/manim.utils.rate_functions.html) — all easing curves with visual previews
+- [Updaters guide](https://docs.manim.community/en/stable/guides/using_updaters.html) — official guide to add_updater and always_redraw
+- [Building blocks tutorial](https://docs.manim.community/en/stable/tutorials/building_blocks.html) — Scenes, Mobjects, Animations explained
+- [Example Gallery](https://docs.manim.community/en/stable/examples.html) — working code for ValueTracker, MovingCamera, and more

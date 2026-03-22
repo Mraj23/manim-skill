@@ -229,3 +229,15 @@ n = Integer(42)
 var = Variable(0, label=MathTex("x"), num_decimal_places=2)
 self.play(var.tracker.animate.set_value(5))  # animates the value
 ```
+
+---
+
+## Official Documentation
+
+- [Manim CE Reference Manual](https://docs.manim.community/en/stable/reference.html) — complete API for every Mobject class
+- [Example Gallery](https://docs.manim.community/en/stable/examples.html) — annotated code + video output for common patterns
+- [Geometry module](https://docs.manim.community/en/stable/reference/manim.mobject.geometry.html) — all shape classes
+- [tex_mobject module](https://docs.manim.community/en/stable/reference/manim.mobject.text.tex_mobject.html) — Tex, MathTex
+- [Text module](https://docs.manim.community/en/stable/reference/manim.mobject.text.text_mobject.html) — Text, MarkupText
+- [Graphing module](https://docs.manim.community/en/stable/reference/manim.mobject.graphing.html) — Axes, NumberPlane, plots
+- [Interactive playground](https://try.manim.community) — run examples in the browser without installing

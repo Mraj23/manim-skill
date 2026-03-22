@@ -211,3 +211,13 @@ are the most common and fastest to fix.
 - [ ] Scene ends in a clean state — either faded out or at the intended resting position
 - [ ] No partially-completed animations frozen mid-way
 - [ ] The key result/insight is still visible if the scene doesn't fade out
+
+---
+
+## Official Documentation
+
+- [FAQ](https://docs.manim.community/en/stable/faq/index.html) — installation issues, LaTeX problems, common errors
+- [Output settings](https://docs.manim.community/en/stable/tutorials/output_and_config.html) — all CLI flags including `-n`, `--disable_caching`, `--save_sections`
+- [Quickstart](https://docs.manim.community/en/stable/tutorials/quickstart.html) — if something fundamental isn't working, start here
+- [GitHub Issues](https://github.com/ManimCommunity/manim/issues) — search before filing; most bugs are already documented
+- [Discord](https://www.manim.community/discord) — active community, good for installation help

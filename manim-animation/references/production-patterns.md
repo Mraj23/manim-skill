@@ -506,3 +506,12 @@ makes visual review comparisons meaningless.
 import numpy as np
 np.random.seed(42)   # put this right after imports, before config and classes
 ```
+
+---
+
+## Official Documentation
+
+- [Plugins](https://docs.manim.community/en/stable/guides/using_plugins.html) — extending Manim with third-party packages
+- [Configuration](https://docs.manim.community/en/stable/guides/configuration.html) — all config fields, custom_config.yml
+- [anthropics/skills](https://github.com/anthropics/skills) — Anthropic's official skill repo with production examples (docx, pptx, pdf skills show similar patterns)
+- [3b1b/videos](https://github.com/3b1b/videos) — real multi-scene project code organized by year
